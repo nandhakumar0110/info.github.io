@@ -1,0 +1,36 @@
+body{
+  background-image: url(photo1.jpeg);
+}
+ .input{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 350px;
+    margin-left:130px ;  
+   background-color: aqua;
+ }
+ h1{
+   text-align: center;
+   color: white;
+ }
+ p{
+   text-align: center;
+   color: white;
+ }
+ .contact{
+   background-color:aqua;
+   height: 500px;
+   width: 600px;
+   /* margin-left: 350px;
+   margin-top: 100px; */
+   position: absolute;
+   left: 450px;
+   top: 100px;
+   border: 10px solid rgb(173, 183, 204); 
+ }
+ button{
+   margin-left: 250px;
+   background-color: aqua;
+   color:white;
+   border-color: white;
+   padding: 10px;
+ }
